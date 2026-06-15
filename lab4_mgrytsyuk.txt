@@ -1,0 +1,11 @@
+OPS445 Lab Report - System Information for running ./CheckLab4.py
+=================================================================
+    User login name: nuclearize
+    Linux system name: sovngarde
+    Python executable: /usr/bin/python3
+    Python version:  3.14.5 (main, May 21 2026, 23:23:37) [GCC 16.1.1 20260430]
+    VS Code version:  1.124.2 646
+    OS Platform: linux
+    Working Directory: /home/nuclearize/ops445/lab4
+    Start at: Mon Jun 15 12:44:42 2026
+=================================================================
